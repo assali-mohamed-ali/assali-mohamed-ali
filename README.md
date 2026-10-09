@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohamed Ali 👋</h1>
 
-<!--
-**assali-mohamed-ali/assali-mohamed-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+projects;Always+learning+new+things+%F0%9F%9A%80" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👨‍💻 I enjoy creating useful and fun projects.
+- 🌱 I’m currently learning and improving my development skills every day.
+- 🤝 I’m open to collaboration and exciting ideas.
+- 🎯 My goal is to keep growing and building things that help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Like
+`JavaScript` `TypeScript` `Python` `HTML` `CSS` `Git` `GitHub`
+
+## 📫 Connect With Me
+- GitHub: [@assali-mohamed-ali](https://github.com/assali-mohamed-ali)
