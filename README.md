@@ -11,7 +11,7 @@
 - 🎯 My goal is to keep growing and building things that help people.
 
 ## 🛠️ Tech I Like
-`JavaScript` `TypeScript` `Python` `HTML` `CSS` `Git` `GitHub`
+ `Java` `JavaScript` `C++` `C` `TypeScript` `Python` `HTML` `CSS`  `Git` `GitHub`
 
 ## 📫 Connect With Me
 - GitHub: [@assali-mohamed-ali](https://github.com/assali-mohamed-ali)
