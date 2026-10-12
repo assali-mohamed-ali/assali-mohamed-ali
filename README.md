@@ -14,4 +14,4 @@
  `Java` `JavaScript` `C++` `C` `TypeScript` `Python` `HTML` `CSS`  `Git` `GitHub`
 
 ## 📫 Connect With Me
-- GitHub: [@assali-mohamed-ali](https://github.com/assali-mohamed-ali)
+- E-Mail: bentaherdaly123@gmail.com
